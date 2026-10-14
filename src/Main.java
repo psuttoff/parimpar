@@ -5,5 +5,7 @@ public class Main{
 
         Scanner leitura = new Scanner(System.in);
 
+        System.out.println("Bem-vindo ao ParImpar!");
+        System.out.println("Digite um número:");
     }
 }
